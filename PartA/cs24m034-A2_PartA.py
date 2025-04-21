@@ -14,7 +14,7 @@ import wandb
 # Enable cuDNN benchmarking for faster convolution operations
 torch.backends.cudnn.benchmark = True
 
-
+wandb.login(key="7f46816d45e3df192c3053bab59032e9d710fef4")
 
 def show_images(class_names, images, labels):
     num_images = len(images)
