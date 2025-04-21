@@ -8,8 +8,8 @@ This repository contains the implementation of an assignment for the DA6401 cour
 
 ### PartA
 - **Files:**
-  - `CS24M034_A2_A.ipynb`: A Jupyter Notebook containing the implementation of tasks for PartA. It includes analysis, visualizations, and explanations.
-  - `cs24m034-A2_A.py`: A Python script implementing various functionalities such as data loading, model training, and visualization using PyTorch and WandB.
+  - `cs24m034-A2-PartA.ipynb`: A Jupyter Notebook containing the implementation of tasks for PartA. It includes analysis, visualizations, and explanations.
+  - `cs24m034-A2-PartA.py`: A Python script implementing various functionalities such as data loading, model training, and visualization using PyTorch and WandB.
 
 - **Key Highlights:**
   - Implements a convolutional neural network (CNN) for classification tasks.
@@ -20,8 +20,8 @@ This repository contains the implementation of an assignment for the DA6401 cour
 
 ### PartB
 - **Files:**
-  - `cs24m034-A2_B.ipynb`: A Jupyter Notebook containing the implementation of tasks for PartB. Similar to PartA, it includes detailed explanations and visualizations.
-  - `cs24m034-A2_B.py`: A Python script implementing deep learning tasks using transfer learning with PyTorch and WandB.
+  - `cs24m034-A2-PartB.ipynb`: A Jupyter Notebook containing the implementation of tasks for PartB. Similar to PartA, it includes detailed explanations and visualizations.
+  - `cs24m034-A2-PartB.py`: A Python script implementing deep learning tasks using transfer learning with PyTorch and WandB.
 
 - **Key Highlights:**
   - Uses a pre-trained GoogLeNet model for transfer learning.
